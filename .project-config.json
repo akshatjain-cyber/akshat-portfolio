@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/ejjG7GWjTqYCtiRqpMQSMR.git",
+    "expiration": "2026-09-18T06:48:01.871Z",
+    "token": "art_v2_x_f1a7059cc59978879bb2132088f7a1feb4d34adb?expires=1789714081",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "akshat-jain-portfolio",
+  "path": "/home/ubuntu/akshat-jain-portfolio",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "SQL6qMVf6tayGkHqKVtGtP",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "74yJJpfLzwZ5HX2TswGKa7",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "AKSHAT JAIN",
+    "OWNER_OPEN_ID": "jLsdqGhMEN3n3Gun3RunTC",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "5f25c8e3-0f6a-4fe0-8fe1-0ee4d9d7cfe1",
+    "VITE_APP_ID": "ejjG7GWjTqYCtiRqpMQSMR",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Akshat Jain — Portfolio",
+    "VITE_FRONTEND_FORGE_API_KEY": "HfU8CkGCDmgH2NRkzdMPHC",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
